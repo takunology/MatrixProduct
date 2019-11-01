@@ -1,0 +1,11 @@
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\bin\Debug\netcoreapp3.0\MatrixProduct.exe
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\bin\Debug\netcoreapp3.0\MatrixProduct.deps.json
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\bin\Debug\netcoreapp3.0\MatrixProduct.runtimeconfig.json
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\bin\Debug\netcoreapp3.0\MatrixProduct.runtimeconfig.dev.json
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\bin\Debug\netcoreapp3.0\MatrixProduct.dll
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\bin\Debug\netcoreapp3.0\MatrixProduct.pdb
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\obj\Debug\netcoreapp3.0\MatrixProduct.csprojAssemblyReference.cache
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\obj\Debug\netcoreapp3.0\MatrixProduct.AssemblyInfoInputs.cache
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\obj\Debug\netcoreapp3.0\MatrixProduct.AssemblyInfo.cs
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\obj\Debug\netcoreapp3.0\MatrixProduct.dll
+F:\GitHub\MatrixProduct\MatrixProduct\MatrixProduct\obj\Debug\netcoreapp3.0\MatrixProduct.pdb
